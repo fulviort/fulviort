@@ -2,7 +2,7 @@
 - I am an accountant, currenty working as financial advisor/analyst.
 - 👀 I am a learning addict, i like some topics like technology, science, finance and many other stuff.
 - 🌱 I’m currently learning to be a backend developer.
-- 💞️ I’m looking to collaborate on personal projects for now.
+- 💞️ I’m looking to collaborate on any project that can provide me knowledge.
 - 📫 You can contact me by email: fulviort@hotmail.com
 
 <!---
