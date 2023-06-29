@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Fulvio Rodríguez,
-- 👀 I’m interested in learning, i am a learning addict, i like some topics like technology, science, finance and many other stuff.
+- I am an accountant, currenty working as financial advisor/analyst.
+- 👀 I am a learning addict, i like some topics like technology, science, finance and many other stuff.
 - 🌱 I’m currently learning to be a backend developer.
 - 💞️ I’m looking to collaborate on personal projects for now.
 - 📫 You can contact me by email: fulviort@hotmail.com
